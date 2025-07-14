@@ -1,0 +1,4 @@
+def log_threat(request):
+    request_json = request.get_json(silent=True)
+    print("⚠️ Threat detected! Event details:", request_json)
+    return "Threat logged", 200
