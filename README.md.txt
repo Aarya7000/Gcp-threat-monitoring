@@ -41,17 +41,25 @@ This project demonstrates how to build a real-time cybersecurity alert system us
 
  📸 Screenshots
 
+## 📸 Project Screenshots
+
 ✅ 1. Cloud Function Deployed
 ![Function Deployed](screenshots/function-deployed.png)
 
-✅ 2. Cloud Shell Deployment
+✅ 2. Cloud Shell Deployment  
 ![Shell Deploy](screenshots/cloud-shell-deploy.png)
 
-✅ 3. Threat Logged Response
-![Threat Log](screenshots/threat-logged-response.png)
+✅ 3. Log Explorer Test (Logs after threat trigger)  
+![Log Explorer](screenshots/log-explorer-test.png)
 
-✅ 4. Alert Policy
-![Alert Policy](screenshots/alert-policy.png)
+✅ 4. Threat Logged using Curl (Simulated Threat)
+![Threat Log](screenshots/curl-simulated-threat.png)
+
+✅ 5. Threat Logged Response (Browser output)
+![Threat Response](screenshots/threat-logged-response2.png)
+
+
+
 
 ---
  🧪 Test Function via curl:
